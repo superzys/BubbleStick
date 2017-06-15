@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleStick", "Assembly-CSharp-firstpass.csproj", "{80CD2268-3E9E-5CB5-580C-F67FD2546124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleStick", "Assembly-CSharp.csproj", "{7EEBFDCB-4066-228D-3BD8-5E10F783C7B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleStick", "Assembly-CSharp-Editor.csproj", "{EB7C7E06-99CA-8266-81F8-2E7F32CD5B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80CD2268-3E9E-5CB5-580C-F67FD2546124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CD2268-3E9E-5CB5-580C-F67FD2546124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CD2268-3E9E-5CB5-580C-F67FD2546124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CD2268-3E9E-5CB5-580C-F67FD2546124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EEBFDCB-4066-228D-3BD8-5E10F783C7B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EEBFDCB-4066-228D-3BD8-5E10F783C7B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EEBFDCB-4066-228D-3BD8-5E10F783C7B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EEBFDCB-4066-228D-3BD8-5E10F783C7B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB7C7E06-99CA-8266-81F8-2E7F32CD5B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7C7E06-99CA-8266-81F8-2E7F32CD5B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7C7E06-99CA-8266-81F8-2E7F32CD5B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7C7E06-99CA-8266-81F8-2E7F32CD5B97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

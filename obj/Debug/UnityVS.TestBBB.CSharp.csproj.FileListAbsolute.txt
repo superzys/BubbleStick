@@ -1,0 +1,11 @@
+E:\ZH\WorkSpace\TestBBB\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\ZH\WorkSpace\TestBBB\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\ZH\WorkSpace\TestBBB\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\ZH\WorkSpace\TestBBB\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\ZH\WorkSpace\TestBBB\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\ZH\WorkSpace\TestBBB\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\ZH\WorkSpace\TestBBB\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\ZH\WorkSpace\TestBBB\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\ZH\WorkSpace\TestBBB\obj\Debug\UnityVS.TestBBB.CSharp.csprojResolveAssemblyReference.cache
+E:\ZH\WorkSpace\TestBBB\obj\Debug\Assembly-CSharp.dll
+E:\ZH\WorkSpace\TestBBB\obj\Debug\Assembly-CSharp.pdb
